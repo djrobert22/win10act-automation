@@ -1,0 +1,16 @@
+# Generated on 2026-11-06
+# Configuration for git attributes
+*.tsx linguist-detectable
+*.htm linguist-vendored
+
+*.sh text eol=lf
+src/**/*.tsx linguist-detectable
+
+* text=auto eol=lf
+*.map linguist-generated
+*.woff binary
+
+*.jpg binary
+
+*.yml linguist-detectable=false
+# eof f5519509
